@@ -1,7 +1,7 @@
 # gcn-pytorch
 Semi Supervised Learning on Graphs using Pytorch
 
-Implemented [this paper](https://arxiv.org/abs/1609.02907) trained on citation dataset(cora)
+Implemented [this paper](https://arxiv.org/abs/1609.02907) trained on citation datasets(cora and pubmed)
 
 ### Team Members
 Aman Saxena\
